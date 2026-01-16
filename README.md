@@ -1,4 +1,4 @@
-# Yu-Gi-Oh! Card Game review system
+# Yu-Gi-Oh! Card Game Review System
 
 ## Overview
 Simple review system for the Yu-Gi-Oh! Trading Card Game for the Java Spring class. It has yugioh controller, review controller and user authentication with JWT. Download and run the project and check http://localhost:8080/swagger-ui/index.html#/ to see it’s capabilities.
