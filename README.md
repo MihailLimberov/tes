@@ -4,5 +4,5 @@
 Simple review system for the Yu-Gi-Oh! Trading Card Game for the Java Spring class. It has yugioh controller, review controller and user authentication. Download and run the project and check http://localhost:8081/swagger-ui/index.html#/ to see it’s capabilities.
 
 ## Controllers
-<img src="https://github.com/MihailLimberov/tes/blob/master/y1.png" alt="Picture of Controllers" width="700" />
+<img src="https://github.com/MihailLimberov/tes/blob/master/y3.png" alt="Picture of Controllers" width="700" />
 <img src="https://github.com/MihailLimberov/tes/blob/master/y2.png" alt="Picture of yugioh card properties" width="700" />
